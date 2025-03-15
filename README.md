@@ -10,9 +10,6 @@ Passionate about crafting appealing user interfaces, and building seamless, intu
 ---
 ### 📫 Get in touch!
 [![Email](https://img.shields.io/badge/Gmail-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:ehenewamogne@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ehenew-amogne-a5b2642b4)  
-[![GitHub](https://img.shields.io/badge/GitHub?style=flat-square&logo=github&logoColor=white)](https://github.com/Ehenew)
-### 📫 Get in touch!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ehenew-amogne-a5b2642b4)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ehenew)
 
