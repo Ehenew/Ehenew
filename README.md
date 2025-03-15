@@ -1,7 +1,8 @@
 ## Hi there, I'm Ehenew Amogne
 ### Software Engineer | Full-Stack Developer
 
----
+![Alt Text](https://t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg)
+
 
 ### 🚀 About Me
 Passionate about crafting appealing user interfaces, and building seamless, intuitive user experiences that engage and delight users while ensuring functionality and performance.
