@@ -7,13 +7,13 @@
 ### 🚀 About Me
 Passionate about crafting appealing user interfaces, and building seamless, intuitive user experiences that engage and delight users while ensuring functionality and performance.
 
--
+---
 ### 📫 Get in touch!
-[![Email](https://img.shields.io/badge/Email-ehenewamogne@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:ehenewamogne@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ehenew%20Amogne-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ehenew-amogne-a5b2642b4)  
-[![GitHub](https://img.shields.io/badge/GitHub-@Ehenew-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ehenew)
+[![Email](https://img.shields.io/badge/Gmail-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:ehenewamogne@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ehenew-amogne-a5b2642b4)  
+[![GitHub](https://img.shields.io/badge/GitHub?style=flat-square&logo=github&logoColor=white)](https://github.com/Ehenew)
 
--
+---
 
 ### 🛠️ Tech Stack
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
