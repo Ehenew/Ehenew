@@ -36,7 +36,7 @@
 
 <h3>📫 Get in touch!</h3>
 <a href="mailto:ehenewamogne@gmail.com"><img src="https://img.shields.io/badge/Gmail-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://www.linkedin.com/in/ehenew-amogne-a5b2642b4"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/ehenew"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 <hr style="height: 1px; background-color: gray; border: none; width: 50%;">
 
