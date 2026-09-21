@@ -61,3 +61,14 @@
 </div>
 
 <hr style="height: 1px; background-color: #4f46e5; border: none; width: 50%;">
+
+
+<div align="center">
+  <a href="https://commit-history.com/Ehenew">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/Ehenew?theme=dark" />
+      <img alt="Ehenew's Commit History" src="https://commit-history.com/embed/Ehenew" />
+    </picture>
+  </a>
+</div>
+
